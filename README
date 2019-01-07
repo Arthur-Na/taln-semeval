@@ -1,2 +1,10 @@
-you need to copy datastories.twitter.300d.pickle from deep-nlp project to data
-directory for the word2vec
+Project done for the taln class at Epita
+
+The project is to participate to semeval2019: task3 - Emocontext
+We have to identify 3 emotions in small conversations of 3 turns
+
+We got a result of 0.6974
+
+In order to work, word2vec need to be download from this repo
+https://github.com/cbaziotis/datastories-semeval2017-task4
+and place them in /data
